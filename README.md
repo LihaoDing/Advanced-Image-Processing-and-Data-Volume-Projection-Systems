@@ -32,17 +32,10 @@ SOFTWARE.
 
 This repository contains the following files and directories:
 
-- `Images`: Directory for storing image files.
-- `Output`: Directory for output files.
 - `documentation/html`: Contains HTML documentation.
 - `executables`: Contains executables for both Mac users and Windows users.
 - `src`: Source code files for the project.
 - `test`: Contains test framework.
-- `.gitignore`: Specifies intentionally untracked files to ignore.
-- `AdvProgGroupAssignment2024.pdf`: PDF document for the Advanced Programming Group Assignment 2024.
-- `GroupProject-Report-Ukkonen.pdf`: PDF document of the project report.
-- `LICENSE`: The license file for the project.
-- `Performance_Evaluation.xlsx`: Excel spreadsheet for performance evaluation.
 - `README.md`: The README file for the repository with instructions and information.
 
 # Installation and Tests
